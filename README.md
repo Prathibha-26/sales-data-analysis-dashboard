@@ -1,6 +1,3 @@
-# sales-data-analysis-dashboard
-Sales Data Analysis and Business Insights using Python, Pandas and Matplotlib
-
 # Sales Data Analysis and Business Insights Dashboard
 
 ## Project Overview
