@@ -1,0 +1,16 @@
+Sales Data Analysis Report
+
+1. Technology generated the highest revenue of ₹382,000.
+
+2. Laptop was the top-performing product with revenue of ₹360,000.
+
+3. January recorded the highest monthly sales of ₹193,000.
+
+4. Office Supplies generated the lowest revenue among all categories.
+
+5. Sales decreased from January to March, indicating a downward sales trend.
+
+Recommendations:
+- Focus marketing efforts on Technology products.
+- Investigate reasons for declining monthly sales.
+- Improve performance of Office Supplies category.

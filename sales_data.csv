@@ -1,0 +1,21 @@
+Date,Product,Category,Quantity,Sales
+2025-01-01,Laptop,Technology,2,90000
+2025-01-02,Mouse,Technology,5,2500
+2025-01-03,Keyboard,Technology,3,4500
+2025-01-04,Chair,Furniture,2,12000
+2025-01-05,Table,Furniture,1,15000
+2025-01-06,Notebook,Office Supplies,10,2000
+2025-01-07,Pen,Office Supplies,20,1000
+2025-01-08,Laptop,Technology,1,45000
+2025-01-09,Chair,Furniture,3,18000
+2025-01-10,Notebook,Office Supplies,15,3000
+2025-02-01,Laptop,Technology,3,135000
+2025-02-02,Mouse,Technology,8,4000
+2025-02-03,Table,Furniture,2,30000
+2025-02-04,Pen,Office Supplies,30,1500
+2025-02-05,Keyboard,Technology,4,6000
+2025-03-01,Laptop,Technology,2,90000
+2025-03-02,Chair,Furniture,4,24000
+2025-03-03,Notebook,Office Supplies,20,4000
+2025-03-04,Mouse,Technology,10,5000
+2025-03-05,Table,Furniture,2,30000
