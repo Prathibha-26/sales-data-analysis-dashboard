@@ -1,68 +1,48 @@
-# Sales Data Analysis and Business Insights Dashboard
+# 📊 Sales Data Analysis Dashboard
 
-## Project Overview
+A comprehensive Sales Data Analysis Dashboard built using Python, SQL, Excel, and Power BI to analyze sales performance, identify business trends, and generate actionable insights through interactive visualizations.
 
-This project analyzes retail sales data using Python and Pandas to identify sales trends, top-performing products, and category-wise revenue contributions. Data visualization techniques were used to generate insights that can support business decision-making.
+## 🚀 Project Overview
 
-## Objectives
+This project focuses on analyzing sales data to uncover key business insights such as revenue trends, product performance, customer behavior, and regional sales distribution. The dashboard helps stakeholders make data-driven decisions by presenting important metrics in an easy-to-understand visual format.
 
-* Perform data cleaning and validation
-* Analyze category-wise sales performance
-* Identify top-selling products
-* Analyze monthly sales trends
-* Generate business insights from sales data
-* Visualize results using charts
+## 🎯 Objectives
 
-## Technologies Used
+- Clean and preprocess raw sales data.
+- Analyze sales trends and business performance.
+- Identify top-selling products and categories.
+- Evaluate regional and customer-wise sales.
+- Generate interactive dashboards for decision-making.
+- Present KPIs through visual reports.
 
-* Python
-* Pandas
-* Matplotlib
-* CSV
+## 🛠️ Technologies Used
 
-## Dataset Features
+- Python
+- Pandas
+- NumPy
+- SQL
+- Microsoft Excel
+- Power BI
+- Data Visualization
 
-* Date
-* Product
-* Category
-* Quantity
-* Sales
+## 📂 Project Structure
 
-## Key Insights
-
-* Technology category generated the highest revenue.
-* Laptop was the top-performing product.
-* January recorded the highest monthly sales.
-* Office Supplies generated the lowest revenue.
-* Sales showed a declining trend from January to March.
-
-## Visualizations
-
-* Category-wise Sales Analysis
-* Monthly Sales Trend
-* Product-wise Revenue Analysis
-
-## Project Structure
-
+```text
 sales-data-analysis-dashboard/
-
-├── sales_data.csv
-
-├── analysis.py
-
-├── business_insights.txt
-
-├── category_sales.png
-
-├── monthly_sales.png
-
-├── product_sales.png
-
-└── README.md
-
-## Future Improvements
-
-* Power BI Dashboard Integration
-* Interactive Visualizations
-* Larger Real-world Datasets
-* Predictive Sales Forecasting
+│
+├── data/
+│   ├── sales_data.csv
+│
+├── notebooks/
+│   ├── sales_analysis.ipynb
+│
+├── dashboard/
+│   ├── Sales_Dashboard.pbix
+│
+├── screenshots/
+│   ├── dashboard_overview.png
+│   ├── sales_trends.png
+│
+├── requirements.txt
+├── README.md
+└── sales.db
